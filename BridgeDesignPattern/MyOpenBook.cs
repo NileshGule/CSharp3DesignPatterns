@@ -5,16 +5,16 @@ namespace BridgeDesignPattern
     public class MyOpenBook : IBridge
     {
         private readonly SpaceBook _mySpaceBook;
-        private readonly string _name;
+        private readonly string _userName;
         private static int users;
 
-        public MyOpenBook(string name)
+        public MyOpenBook(string userName)
         {
-            _name = name;
+            _userName = userName;
 
             users++;
 
-            _mySpaceBook = new SpaceBook(string.Format("{0}-{1}", _name, users));
+            _mySpaceBook = new SpaceBook(string.Format("{0}-{1}", _userName, users));
         }
 
         public void Add(string message)
@@ -24,12 +24,12 @@ namespace BridgeDesignPattern
 
         public void MessageFriend(string friendName, string message)
         {
-            _mySpaceBook.MessageFriend(friendName, string.Format("{0} said {1}", _name, message));
+            _mySpaceBook.MessageFriend(friendName, string.Format("{0} said {1}", _userName, message));
         }
 
         public void Poke(string who)
         {
-            _mySpaceBook.Poke(who, _name);
+            _mySpaceBook.Poke(who, _userName);
         }
     }
 }

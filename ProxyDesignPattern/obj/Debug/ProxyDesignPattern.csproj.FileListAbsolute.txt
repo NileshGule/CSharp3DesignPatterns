@@ -1,5 +1,0 @@
-E:\Nilesh\Projects\CSharp3DesignPatterns\ProxyDesignPattern\bin\Debug\ProxyDesignPattern.pdb
-E:\Nilesh\Projects\CSharp3DesignPatterns\ProxyDesignPattern\obj\Debug\ResolveAssemblyReference.cache
-E:\Nilesh\Projects\CSharp3DesignPatterns\ProxyDesignPattern\obj\Debug\ProxyDesignPattern.pdb
-E:\Nilesh\Projects\CSharp3DesignPatterns\ProxyDesignPattern\bin\Debug\ProxyDesignPattern.exe
-E:\Nilesh\Projects\CSharp3DesignPatterns\ProxyDesignPattern\obj\Debug\ProxyDesignPattern.exe

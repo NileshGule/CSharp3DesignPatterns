@@ -1,7 +1,0 @@
-E:\Nilesh\Projects\CSharp3DesignPatterns\BridgeDesignPattern\obj\x86\Debug\ResolveAssemblyReference.cache
-E:\Nilesh\Projects\CSharp3DesignPatterns\BridgeDesignPattern\bin\Debug\BridgeDesignPattern.exe
-E:\Nilesh\Projects\CSharp3DesignPatterns\BridgeDesignPattern\bin\Debug\BridgeDesignPattern.pdb
-E:\Nilesh\Projects\CSharp3DesignPatterns\BridgeDesignPattern\bin\Debug\ProxyDesignPattern.exe
-E:\Nilesh\Projects\CSharp3DesignPatterns\BridgeDesignPattern\bin\Debug\ProxyDesignPattern.pdb
-E:\Nilesh\Projects\CSharp3DesignPatterns\BridgeDesignPattern\obj\x86\Debug\BridgeDesignPattern.exe
-E:\Nilesh\Projects\CSharp3DesignPatterns\BridgeDesignPattern\obj\x86\Debug\BridgeDesignPattern.pdb
