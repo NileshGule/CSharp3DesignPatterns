@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="658F1F8F-F6DB-42E5-A4FB-CDE4B64F8D76" ModuleId="DecoratorDesignPattern" />
+  <Module PersistentId="9CC79A3A-0014-416B-B048-DD1E6D669A16" ModuleId="DecoratorDesignPatternTests" />
+  <Module PersistentId="72D16373-64F1-44DB-929A-9908A70209BF" ModuleId="ProxyDesignPattern" />
+  <Module PersistentId="64E96839-EB35-4DF6-8E0C-17FAB1BC8974" ModuleId="BridgeDesignPattern" />
+</Modules>

@@ -1,0 +1,185 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">False</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="658F1F8F-F6DB-42E5-A4FB-CDE4B64F8D76/d:Properties/f:AssemblyInfo.cs" caret="1475" fromTop="0" />
+      <File id="658F1F8F-F6DB-42E5-A4FB-CDE4B64F8D76/f:Program.cs" caret="389" fromTop="14" />
+      <File id="658F1F8F-F6DB-42E5-A4FB-CDE4B64F8D76/f:BorderedPhoto.cs" caret="91" fromTop="4" />
+      <File id="658F1F8F-F6DB-42E5-A4FB-CDE4B64F8D76/f:Photo.cs" caret="71" fromTop="4" />
+      <File id="658F1F8F-F6DB-42E5-A4FB-CDE4B64F8D76/f:IPhoto.cs" caret="58" fromTop="2" />
+      <File id="658F1F8F-F6DB-42E5-A4FB-CDE4B64F8D76/f:TaggedPhoto.cs" caret="174" fromTop="7" />
+      <File id="9CC79A3A-0014-416B-B048-DD1E6D669A16/f:TaggedPhotoTest.cs" caret="665" fromTop="21" />
+      <File id="72D16373-64F1-44DB-929A-9908A70209BF/f:Program.cs" caret="383" fromTop="12" />
+      <File id="72D16373-64F1-44DB-929A-9908A70209BF/f:MySpaceBook.cs" caret="1048" fromTop="34" />
+      <File id="64E96839-EB35-4DF6-8E0C-17FAB1BC8974/f:IBridge.cs" caret="213" fromTop="10" />
+      <File id="64E96839-EB35-4DF6-8E0C-17FAB1BC8974/f:Portal.cs" caret="508" fromTop="23" />
+      <File id="72D16373-64F1-44DB-929A-9908A70209BF/f:SpaceBook.cs" caret="1031" fromTop="29" />
+      <File id="64E96839-EB35-4DF6-8E0C-17FAB1BC8974/f:Program.cs" caret="409" fromTop="12" />
+      <File id="64E96839-EB35-4DF6-8E0C-17FAB1BC8974/f:MyOpenBook.cs" caret="25" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="72D16373-64F1-44DB-929A-9908A70209BF/f:SpaceBook.cs" caret="321" fromTop="11" />
+      <File id="72D16373-64F1-44DB-929A-9908A70209BF/f:SpaceBook.cs" caret="0" fromTop="0" />
+      <File id="72D16373-64F1-44DB-929A-9908A70209BF/f:MySpaceBook.cs" caret="2332" fromTop="30" />
+      <File id="72D16373-64F1-44DB-929A-9908A70209BF/f:MySpaceBook.cs" caret="2081" fromTop="22" />
+      <File id="72D16373-64F1-44DB-929A-9908A70209BF/f:MySpaceBook.cs" caret="85" fromTop="5" />
+      <File id="72D16373-64F1-44DB-929A-9908A70209BF/f:MySpaceBook.cs" caret="1310" fromTop="14" />
+      <File id="72D16373-64F1-44DB-929A-9908A70209BF/f:MySpaceBook.cs" caret="2503" fromTop="31" />
+      <File id="72D16373-64F1-44DB-929A-9908A70209BF/f:MySpaceBook.cs" caret="1857" fromTop="7" />
+      <File id="72D16373-64F1-44DB-929A-9908A70209BF/f:MySpaceBook.cs" caret="856" fromTop="34" />
+      <File id="72D16373-64F1-44DB-929A-9908A70209BF/f:MySpaceBook.cs" caret="1195" fromTop="34" />
+      <File id="72D16373-64F1-44DB-929A-9908A70209BF/f:Program.cs" caret="438" fromTop="13" />
+      <File id="64E96839-EB35-4DF6-8E0C-17FAB1BC8974/f:Portal.cs" caret="91" fromTop="4" />
+      <File id="64E96839-EB35-4DF6-8E0C-17FAB1BC8974/f:Portal.cs" caret="483" fromTop="15" />
+      <File id="64E96839-EB35-4DF6-8E0C-17FAB1BC8974/f:Portal.cs" caret="204" fromTop="11" />
+      <File id="64E96839-EB35-4DF6-8E0C-17FAB1BC8974/f:Portal.cs" caret="304" fromTop="16" />
+      <File id="64E96839-EB35-4DF6-8E0C-17FAB1BC8974/f:Portal.cs" caret="455" fromTop="21" />
+      <File id="64E96839-EB35-4DF6-8E0C-17FAB1BC8974/f:IBridge.cs" caret="213" fromTop="10" />
+      <File id="72D16373-64F1-44DB-929A-9908A70209BF/f:SpaceBook.cs" caret="95" fromTop="5" />
+      <File id="72D16373-64F1-44DB-929A-9908A70209BF/f:SpaceBook.cs" caret="628" fromTop="26" />
+      <File id="72D16373-64F1-44DB-929A-9908A70209BF/f:SpaceBook.cs" caret="901" fromTop="32" />
+      <File id="72D16373-64F1-44DB-929A-9908A70209BF/f:SpaceBook.cs" caret="1044" fromTop="33" />
+      <File id="72D16373-64F1-44DB-929A-9908A70209BF/f:SpaceBook.cs" caret="456" fromTop="6" />
+      <File id="64E96839-EB35-4DF6-8E0C-17FAB1BC8974/f:MyOpenBook.cs" caret="236" fromTop="10" />
+      <File id="64E96839-EB35-4DF6-8E0C-17FAB1BC8974/f:MyOpenBook.cs" caret="524" fromTop="25" />
+      <File id="64E96839-EB35-4DF6-8E0C-17FAB1BC8974/f:MyOpenBook.cs" caret="826" fromTop="33" />
+      <File id="64E96839-EB35-4DF6-8E0C-17FAB1BC8974/f:MyOpenBook.cs" caret="709" fromTop="28" />
+      <File id="64E96839-EB35-4DF6-8E0C-17FAB1BC8974/f:MyOpenBook.cs" caret="225" fromTop="8" />
+      <File id="64E96839-EB35-4DF6-8E0C-17FAB1BC8974/f:Program.cs" caret="0" fromTop="0" />
+      <File id="64E96839-EB35-4DF6-8E0C-17FAB1BC8974/f:Program.cs" caret="288" fromTop="10" />
+      <File id="64E96839-EB35-4DF6-8E0C-17FAB1BC8974/f:MyOpenBook.cs" caret="399" fromTop="16" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="6" />
+      <Item value="void" priority="11" />
+      <Item value="string" priority="27" />
+      <Item value="ctor" priority="2" />
+      <Item value="_photoName" priority="0" />
+      <Item value="IPhoto`0" priority="1" />
+      <Item value="new" priority="14" />
+      <Item value="List&lt;string&gt;" priority="1" />
+      <Item value="tag" priority="2" />
+      <Item value="_tags" priority="1" />
+      <Item value="_photo" priority="1" />
+      <Item value="foreach" priority="0" />
+      <Item value="Console`0" priority="15" />
+      <Item value="Photo" priority="0" />
+      <Item value="Assert`0" priority="0" />
+      <Item value="taggedPhoto" priority="1" />
+      <Item value="return" priority="1" />
+      <Item value="ReadOnlyCollection&lt;string&gt;" priority="0" />
+      <Item value="TaggedPhoto`0" priority="0" />
+      <Item value="TaggedPhoto" priority="0" />
+      <Item value="secondTaggedPhoto" priority="2" />
+      <Item value="static" priority="4" />
+      <Item value="photo" priority="0" />
+      <Item value="_borderColor" priority="0" />
+      <Item value="BorderedPhoto`0" priority="1" />
+      <Item value="SortedList&lt;string,RealSpaceBook&gt;" priority="0" />
+      <Item value="bool" priority="2" />
+      <Item value="community" priority="2" />
+      <Item value="name" priority="11" />
+      <Item value="this" priority="0" />
+      <Item value="internal" priority="2" />
+      <Item value="_pages" priority="1" />
+      <Item value="_gap" priority="2" />
+      <Item value="_name" priority="2" />
+      <Item value="friendName" priority="3" />
+      <Item value="message" priority="6" />
+      <Item value="Community" priority="0" />
+      <Item value="GAP" priority="0" />
+      <Item value="friend" priority="0" />
+      <Item value="SpaceBook`0" priority="1" />
+      <Item value="do" priority="0" />
+      <Item value="password" priority="2" />
+      <Item value="if" priority="7" />
+      <Item value="suppliedPassword" priority="0" />
+      <Item value="loggedIn" priority="4" />
+      <Item value="true" priority="1" />
+      <Item value="mySpaceBook" priority="7" />
+      <Item value="null" priority="2" />
+      <Item value="SpaceBook" priority="2" />
+      <Item value="false" priority="0" />
+      <Item value="checked" priority="0" />
+      <Item value="Check`0" priority="1" />
+      <Item value="who" priority="2" />
+      <Item value="Register`0" priority="0" />
+      <Item value="Authenticate`0" priority="0" />
+      <Item value="MySpaceBook`0" priority="1" />
+      <Item value="MySpaceBook" priority="1" />
+      <Item value="me" priority="3" />
+      <Item value="tom" priority="2" />
+      <Item value="IBridge`0" priority="0" />
+      <Item value="_bridge" priority="2" />
+      <Item value="users" priority="1" />
+      <Item value="_mySpaceBook" priority="2" />
+      <Item value="Portal`0" priority="1" />
+      <Item value="Portal" priority="1" />
+      <Item value="MyOpenBook`0" priority="1" />
+      <Item value="Tom" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="16" />
+      <Item value="ReadLine`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="Add`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DecoratorDesignPattern.IPhoto">
+      <Item value="Draw`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.VisualStudio.TestTools.UnitTesting.Assert">
+      <Item value="AreEqual`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.SortedList`2">
+      <Item value="ContainsKey`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ProxyDesignPattern.SpaceBook">
+      <Item value="Add`0" priority="2" />
+      <Item value="_pages" priority="0" />
+      <Item value="MessageFriend`0" priority="1" />
+      <Item value="Poke`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ProxyDesignPattern.SpaceBook">
+      <Item value="IsUnique`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Equals`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ProxyDesignPattern.MySpaceBook">
+      <Item value="Add`0" priority="3" />
+      <Item value="Poke`0" priority="0" />
+      <Item value="MessageFriend`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BridgeDesignPattern.IBridge">
+      <Item value="Add`0" priority="0" />
+      <Item value="MessageFriend`0" priority="0" />
+      <Item value="Poke`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BridgeDesignPattern.Portal">
+      <Item value="Add`0" priority="3" />
+      <Item value="Poke`0" priority="0" />
+      <Item value="MessageFriend`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

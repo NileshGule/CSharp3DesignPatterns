@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="cec850e2-b5a7-4ceb-9f8a-d3ed057c7508" name="Nilesh@NILESH-PC 2011-07-27 22:50:36" runUser="Nilesh-PC\Nilesh" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="c60e287d-ecae-438c-a007-4c4ca8f39aea">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Nilesh_NILESH-PC 2011-07-27 22_50_36">
+      <DeploymentItem filename="E:\Nilesh\Projects\CSharp3DesignPatterns\DecoratorDesignPattern\bin\Debug\DecoratorDesignPattern.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-07-27T22:50:36.1237221+08:00" queuing="2011-07-27T22:50:36.1947262+08:00" start="2011-07-27T22:50:36.2027266+08:00" finish="2011-07-27T22:50:36.7787596+08:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="MultipleTagTest" storage="e:\nilesh\projects\csharp3designpatterns\decoratordesignpatterntests\bin\debug\decoratordesignpatterntests.dll" id="0b4e24e1-707e-a7fd-b6b1-1e7f1b9957f2">
+      <Execution id="ac694fb2-9701-44c0-9d4a-d6b4f7f979bf" />
+      <TestMethod codeBase="E:/Nilesh/Projects/CSharp3DesignPatterns/DecoratorDesignPatternTests/bin/Debug/DecoratorDesignPatternTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DecoratorDesignPatternTests.TaggedPhotoTest, DecoratorDesignPatternTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MultipleTagTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="0b4e24e1-707e-a7fd-b6b1-1e7f1b9957f2" executionId="ac694fb2-9701-44c0-9d4a-d6b4f7f979bf" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="ac694fb2-9701-44c0-9d4a-d6b4f7f979bf" testId="0b4e24e1-707e-a7fd-b6b1-1e7f1b9957f2" testName="MultipleTagTest" computerName="NILESH-PC" duration="00:00:00.1796533" startTime="2011-07-27T22:50:36.2087270+08:00" endTime="2011-07-27T22:50:36.7557583+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ac694fb2-9701-44c0-9d4a-d6b4f7f979bf">
+      <Output>
+        <StdOut>Photo name : base photo
+Tags for photo 
+Singapore</StdOut>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;Singapore&gt;. Actual:&lt;India&gt;. </Message>
+          <StackTrace>   at DecoratorDesignPatternTests.TaggedPhotoTest.MultipleTagTest() in E:\Nilesh\Projects\CSharp3DesignPatterns\DecoratorDesignPatternTests\TaggedPhotoTest.cs:line 38
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

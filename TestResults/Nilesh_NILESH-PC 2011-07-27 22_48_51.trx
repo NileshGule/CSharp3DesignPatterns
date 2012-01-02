@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="6434a499-909b-43eb-b4ea-230df3c92057" name="Nilesh@NILESH-PC 2011-07-27 22:48:51" runUser="Nilesh-PC\Nilesh" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="c60e287d-ecae-438c-a007-4c4ca8f39aea">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Nilesh_NILESH-PC 2011-07-27 22_48_51">
+      <DeploymentItem filename="E:\Nilesh\Projects\CSharp3DesignPatterns\DecoratorDesignPattern\bin\Debug\DecoratorDesignPattern.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-07-27T22:48:51.4687362+08:00" queuing="2011-07-27T22:48:51.5407403+08:00" start="2011-07-27T22:48:51.5497408+08:00" finish="2011-07-27T22:48:51.9737651+08:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="DrawTest" storage="e:\nilesh\projects\csharp3designpatterns\decoratordesignpatterntests\bin\debug\decoratordesignpatterntests.dll" id="45ac0913-0633-573e-cd28-c545d8ec67fc">
+      <Execution id="2921c854-b2d7-4eed-8a24-78352ccf7714" />
+      <TestMethod codeBase="E:/Nilesh/Projects/CSharp3DesignPatterns/DecoratorDesignPatternTests/bin/Debug/DecoratorDesignPatternTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DecoratorDesignPatternTests.TaggedPhotoTest, DecoratorDesignPatternTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DrawTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="45ac0913-0633-573e-cd28-c545d8ec67fc" executionId="2921c854-b2d7-4eed-8a24-78352ccf7714" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="2921c854-b2d7-4eed-8a24-78352ccf7714" testId="45ac0913-0633-573e-cd28-c545d8ec67fc" testName="DrawTest" computerName="NILESH-PC" duration="00:00:00.0251976" startTime="2011-07-27T22:48:51.5567412+08:00" endTime="2011-07-27T22:48:51.9517638+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2921c854-b2d7-4eed-8a24-78352ccf7714">
+      <Output>
+        <StdOut>Photo name : base photo
+Tags for photo 
+Singapore</StdOut>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

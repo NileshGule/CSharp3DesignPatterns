@@ -1,0 +1,7 @@
+E:\Nilesh\Projects\CSharp3DesignPatterns\DecoratorDesignPatternTests\bin\Debug\DecoratorDesignPatternTests.dll
+E:\Nilesh\Projects\CSharp3DesignPatterns\DecoratorDesignPatternTests\bin\Debug\DecoratorDesignPatternTests.pdb
+E:\Nilesh\Projects\CSharp3DesignPatterns\DecoratorDesignPatternTests\bin\Debug\DecoratorDesignPattern.pdb
+E:\Nilesh\Projects\CSharp3DesignPatterns\DecoratorDesignPatternTests\obj\Debug\ResolveAssemblyReference.cache
+E:\Nilesh\Projects\CSharp3DesignPatterns\DecoratorDesignPatternTests\obj\Debug\DecoratorDesignPatternTests.dll
+E:\Nilesh\Projects\CSharp3DesignPatterns\DecoratorDesignPatternTests\obj\Debug\DecoratorDesignPatternTests.pdb
+E:\Nilesh\Projects\CSharp3DesignPatterns\DecoratorDesignPatternTests\bin\Debug\DecoratorDesignPattern.exe
